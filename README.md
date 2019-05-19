@@ -1,7 +1,15 @@
 # MultiLanguges
 <h2> نمونه سایت چند زبانه </h2>
 <h1>mulitlanguges in asp.net webform</h1>
-<p>you can select your languge for all site languge</p>
+  <p>You can use this example for all projects, this project will try to display two languages, which include English and Persian.
+I am glad to help you develop your project
+But I can not free my projects
+in next project , see you
+bye </p>
+
 <h2>سایت چند زبانه asp.net </h2>
-<p> با انتخاب زبان کل سایت تغییر زبان میکند </p>
-<p>با استفاده از کالچر (Culture) ما این سایت را چند زبانه کرده ایم ، که البته روش های دیگری هم وجود داره در صورت درخواست شما این کار را هم انجام می دهیم</p>
+  <p> شما می توانید از این مثال برای تمام پروژه ها استفاده کنید، این پروژه سعی خواهد کرد دو زبان را که شامل انگلیسی و فارسی هستند را نمایش دهد.
+من خوشحالم که به شما در توسعه پروژه کمک می کند
+اما من نمی توانم پروژه هایم را آزاد کنم
+تو پروژه بعدی میبینمتون
+خدا حافظ</p>
