@@ -1,7 +1,7 @@
 # MultiLanguges
 <h2> نمونه سایت چند زبانه </h2>
 <h1>mulitlanguges in asp.net webform</h1>
-  <p>You can use this example for all projects, this project will try to display two languages, which include English and Persian.
+  <p>You can use it for all projects, current project will try to display second languages, which include English or Persian.
 I am glad to help you develop your project
 But I can not free my projects
 in next project , see you
